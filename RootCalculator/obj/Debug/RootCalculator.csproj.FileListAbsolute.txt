@@ -1,0 +1,14 @@
+E:\Code\Root Calculator\RootCalculator\RootCalculator\bin\Debug\RootCalculator.exe.config
+E:\Code\Root Calculator\RootCalculator\RootCalculator\bin\Debug\RootCalculator.exe
+E:\Code\Root Calculator\RootCalculator\RootCalculator\bin\Debug\RootCalculator.pdb
+E:\Code\Root Calculator\RootCalculator\RootCalculator\obj\Debug\RootCalculator.csproj.AssemblyReference.cache
+E:\Code\Root Calculator\RootCalculator\RootCalculator\obj\Debug\RootCalculator.csproj.CoreCompileInputs.cache
+E:\Code\Root Calculator\RootCalculator\RootCalculator\obj\Debug\RootCalculator.exe
+E:\Code\Root Calculator\RootCalculator\RootCalculator\obj\Debug\RootCalculator.pdb
+E:\Code\Root Calculator\Root Calculator\RootCalculator\bin\Debug\RootCalculator.exe.config
+E:\Code\Root Calculator\Root Calculator\RootCalculator\bin\Debug\RootCalculator.exe
+E:\Code\Root Calculator\Root Calculator\RootCalculator\bin\Debug\RootCalculator.pdb
+E:\Code\Root Calculator\Root Calculator\RootCalculator\obj\Debug\RootCalculator.csproj.AssemblyReference.cache
+E:\Code\Root Calculator\Root Calculator\RootCalculator\obj\Debug\RootCalculator.csproj.CoreCompileInputs.cache
+E:\Code\Root Calculator\Root Calculator\RootCalculator\obj\Debug\RootCalculator.exe
+E:\Code\Root Calculator\Root Calculator\RootCalculator\obj\Debug\RootCalculator.pdb
