@@ -4,7 +4,7 @@ namespace RootCalculator {
 
 	class MainClass {
 
-		public const double PRECISION = 0.0000001;
+		public const double PRECISION = 0.00000001;
 
 		static void Main(string[] args) {
 			double num;
@@ -34,7 +34,7 @@ namespace RootCalculator {
 				}
 
 				double result = Root(root, num);
-				Console.WriteLine(result);
+				Console.WriteLine(String.Format("{0:0.#########}",result));
 
 				Console.WriteLine("Go again? (y/n)");
 				if (Console.ReadLine().ToLower().StartsWith("n")) break;
